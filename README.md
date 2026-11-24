@@ -16,6 +16,7 @@ This repo is designed to give prospective analytical employees some additional i
 5. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
 6. [AI Jobs](https://ai-jobs.net/) - Jobs in AI and Big Data
 7. [Analytics Jobs UK](https://www.analyticsjobs.co.uk/) - Support analytics workers with useful career information
+8. [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT and data science jobs across Europe aggregated hourly from employers' own career pages (Greenhouse, Lever, Ashby, Workable). Filter by visa sponsorship, remote, country and salary.
 
 
 
